@@ -1,0 +1,5 @@
+{
+    "mongoURI": "mongodb+srv://akashchawla497:Rahul2890@cluster0.lr4afna.mongodb.net/DevBook?retryWrites=true&w=majority&appName=Cluster0",
+    "jwtSecret": "akashProject"
+}
+  
